@@ -1,0 +1,8 @@
+.article-list-container {
+    padding: 0 20% 5% 20%;
+}
+
+.listitem {
+    margin-top: 5%;
+    border: 1px solid #ccc;
+}
